@@ -33,7 +33,7 @@
     "lodash": "^4.17.21",
     "rango-sdk-basic": "^0.1.71",
     "reconnecting-websocket": "^4.4.0",
-    "uuid": "^11.1.0",
+    "uuid": "^14.0.0",
     "web3-eth": "^1.10.4",
     "web3-utils": "^1.10.4",
     "ws": "^8.18.3"
